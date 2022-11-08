@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Cellular_automats/.idea/Cellular_automats.iml" filepath="$PROJECT_DIR$/../Cellular_automats/.idea/Cellular_automats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyQT.iml" filepath="$PROJECT_DIR$/.idea/PyQT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../9785977539784/FTP/sudoku/.idea/sudoku.iml" filepath="$PROJECT_DIR$/../9785977539784/FTP/sudoku/.idea/sudoku.iml" />
+    </modules>
+  </component>
+</project>
